@@ -70,10 +70,5 @@ I’m a curious mind from <b>Brazil 🇧🇷 / France 🇫🇷</b> with a backgr
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willfliaw&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willfliaw&layout=compact&theme=default" height="160"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=willfliaw&theme=github&hide_border=true&bg_color=ffffff&color=334155&line=0A66C2&point=1D4ED8&area=true&area_color=E8F2FC&title_color=0A66C2&height=300">
 </div>
